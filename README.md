@@ -1,4 +1,4 @@
-# Pokeclicker Mobility Quite
+# Pokeclicker Mobility Suite
 An automation suite for pokeclicker.
 Is not intended to be a "cheat", (almost) everything here is humanly possible, if you were superhuman.
 
